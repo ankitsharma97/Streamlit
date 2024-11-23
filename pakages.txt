@@ -1,0 +1,2 @@
+tesseract-ocr
+libtesseract-dev  # Development files for Tesseract (if needed)
